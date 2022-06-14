@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace LineComparisonProblem
+namespace Line_ComparisonPP
 {
     public class CartesianSystem
     {

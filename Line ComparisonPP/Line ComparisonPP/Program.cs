@@ -1,4 +1,5 @@
-﻿using LineComparisonProblem;
+﻿
+
 using System;
 
 namespace Line_ComparisonPP
@@ -9,7 +10,8 @@ namespace Line_ComparisonPP
         {
             //Console.WriteLine("Welcome to Line Comparison Computation Program");
 
-            CartesianSystem.Calculatinglength();
+            // CartesianSystem.Calculatinglength();
+            Equalityof2lines.Comparison();
         }
     }
 }
