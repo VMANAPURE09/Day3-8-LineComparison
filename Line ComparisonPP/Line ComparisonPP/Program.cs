@@ -11,7 +11,8 @@ namespace Line_ComparisonPP
             //Console.WriteLine("Welcome to Line Comparison Computation Program");
 
             // CartesianSystem.Calculatinglength();
-            Equalityof2lines.Comparison();
+            //Equalityof2lines.Comparison();
+            Comparetwolines.Comparelines();
         }
     }
 }
