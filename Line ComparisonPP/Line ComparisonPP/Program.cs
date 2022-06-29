@@ -8,11 +8,12 @@ namespace Line_ComparisonPP
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("Welcome to Line Comparison Computation Program");
+
 
             // CartesianSystem.Calculatinglength();
             //Equalityof2lines.Comparison();
-            Comparetwolines.Comparelines();
+            //Comparetwolines.Comparelines();
+            JavaOOP.CompareLines();
         }
     }
 }

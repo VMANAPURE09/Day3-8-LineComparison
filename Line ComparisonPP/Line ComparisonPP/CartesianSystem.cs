@@ -23,7 +23,7 @@ namespace Line_ComparisonPP
             double result = Math.Sqrt(a + b);
 
 
-            Console.WriteLine("The length of Line is :" + result);
+            Console.WriteLine("The length of Line is :" + result); //to print these
 
         }
     }
